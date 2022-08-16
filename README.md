@@ -100,7 +100,7 @@ Instead, we should talk about things like:
 - Feedback (either for you or for me)
 - Advice/coaching
 
-## A final note on feedback 🗨️
+## A final note on feedback 🦸‍♂️
 I love feedback! Feedback is critical to your success at GitHub — and mine as well. You would be doing me a huge favor if you give me constructive feedback to help me do my job better 🙇
 
 Let's build something amazing together! ✨
