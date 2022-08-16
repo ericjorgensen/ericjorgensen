@@ -1,7 +1,7 @@
 # Manager README
 I think we'll work for effectively together if you know a bit about me. So here goes 😅
 
-## About me
+## About me 👨‍👦
 First off, you can call me Eric or EJ (to avoid a Planning & Tracking name collision w/ [@aricwalker](https://github.com/aricwalker).
 
 - I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
@@ -11,7 +11,7 @@ First off, you can call me Eric or EJ (to avoid a Planning & Tracking name colli
 
 ![image](https://user-images.githubusercontent.com/1682088/184918474-2e115b3b-8158-4a22-af87-b158fe4b9426.png)
 
-## My values
+## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are a few of mine:
 
 | **Value**                               | **What does it mean to me?**                                                                                                                                                   |
@@ -23,7 +23,7 @@ Values matter! Our values determine how we show up every day at work. Here are a
 | Respect                                 | No outcome justifies treating others with disrespect. If you mess up, make it right.                                                                                           |
 | Growth mindset                          | Everyone can grow and improve given the right context, challenges, frame of mind, and feedback.                                                                                |
 | Making an impact                        | Let’s build the right thing, in the right way, with the right amount of investment.                                                                                            |
-## Some of my areas of growth
+## Some of my areas of growth ⏫
 We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my role here.
 
 ### I'm new here
@@ -35,7 +35,7 @@ By default, I generally listen and learn first before speaking or acting. After 
 ### I am most comfortable in 1:1 conversations
 I find it incredibly awkward to speak to groups of people on Zoom 😬 This means that sometimes I miss or shy away from opportunities to have larger conversations or send messages to a larger group. I am consistently pushing myself to grow in choosing the right venues for communication, but I could use your help and feedback along the way.
 
-## Some of my strengths
+## Some of my strengths 💪
 
 ### I take time to understand a situation before acting
 This is the flipside of the area of growth I described above — I generally won’t rush into action based on one conversation. I’ll gather additional context and information (likely from multiple sources) as time allows to ensure that I truly understand what’s going on.
@@ -52,20 +52,20 @@ Further, I am not closely scrutinizing you on a day-to-day basis to monitor you 
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
 
 
-## Working hours
+## Working hours ⏰
 
 - I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
 - I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency (e.g. the site is down).
 - All that said, I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
-## Your job
+## Your job ⌨️
 I look at your job as an engineer as being pretty straightforward:
 
 - Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that)
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
 - Stay engaged with the team, be it on Slack, in GitHub, or team meetings on video.
 
-## My job
+## My job 💼
 My job as a manager is similarly simple:
 
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!).
@@ -82,7 +82,7 @@ I default to high autonomy; my preferred management mode is to trust you to hand
 Everyone is different, and I realize some people need more guidance than others. If you need more direction from me, please let me know as soon as possible.
 I will get better at finding the right balance as we get to know each other better!
 
-## Communication
+## Communication 🗯️
 
 As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1 (more on that below) via video or phone. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
 
@@ -100,7 +100,7 @@ Instead, we should talk about things like:
 - Feedback (either for you or for me)
 - Advice/coaching
 
-## A final note on feedback
+## A final note on feedback 🗨️
 I love feedback! Feedback is critical to your success at GitHub — and mine as well. You would be doing me a huge favor if you give me constructive feedback to help me do my job better 🙇
 
 Let's build something amazing together! ✨
