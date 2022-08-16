@@ -43,11 +43,10 @@ This is the flipside of the area of growth I described above — I generally won
 ### I have a growth mindset and respond well to feedback
 One of the reasons I show up every day to work is because I want to learn and grow. I appreciate it when people disagree with me and/or share constructive feedback, and I treat those situations as opportunities to learn.
 
-### I trust by default
-I am not closely scrutinizing you on a day-to-day basis to monitor you (e.g. how many hours you are working, Slack availability, etc.). I trust you to the do the job we’ve hired you to do and be accountable to the team.
-
-### I am honest
+### I am honest and I trust by default
 I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. There may be certain topics that I can’t talk about, but, if you ask me a question, I’ll tell you that. I won’t lie. You can also count on me to give you feedback when I see areas where you can improve.
+
+Further, I am not closely scrutinizing you on a day-to-day basis to monitor you (e.g. how many hours you are working, Slack availability, etc.). I trust you to the do the job we’ve hired you to do and be accountable to the team.
 
 ### I care about you as a human being
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
@@ -85,9 +84,9 @@ I will get better at finding the right balance as we get to know each other bett
 
 ## Communication
 
-As a child of AIM (screenname: guitarer1c2 🖥️), I love asynchronous written communication via Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1 (more on that below) via video or phone. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
+As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1 (more on that below) via video or phone. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
 
-**The bottom line:** if you want to talk, we’ll talk! My calendar is public — you can and should schedule time with me whenever you want/need to.
+**The bottom line:** if you want to talk, we’ll talk! My 📆 is public — you can and should schedule time with me whenever you want/need to.
 
 ### 1:1s 🧑‍🤝‍🧑
 As mentioned above, you and I will have a weekly 30-minute 1:1. This time is not meant to be a project status report (there are lots of other opportunities to do that).
