@@ -30,6 +30,9 @@ We are all works in progress — including me! Here are a few of of things that 
 ### I'm new here
 I realize that it’s a risk to join or new team or change managers, and, as a new Hubber (I joined GitHub in June ‘22), I don’t have the context and organizational insight that other managers do. I’m making it one of my main priorities to meet people throughout GitHub and learn as much as I can as quickly as I can.
 
+### Over-explaining
+I like words. Sometimes, I use too many of them. I am working on using less to say more.
+
 ### Bias towards listening/learning before acting
 By default, I generally listen and learn first before speaking or acting. After working with a leadership coach for the past two years (his name is Hector, and I will probably talk about him every so often), I've realized that I need to (kindly and humbly) speak up sooner rather than later with confidence and curiosity.
 
