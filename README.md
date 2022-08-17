@@ -9,7 +9,12 @@ First off, you can call me Eric or EJ (to avoid a Planning & Tracking name colli
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
 - I come to GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
+**My family at Gooseberry Falls, north of Duluth, MN**
 ![image](https://user-images.githubusercontent.com/1682088/184918474-2e115b3b-8158-4a22-af87-b158fe4b9426.png)
+
+| **Zoey** | **Phoebe** | 
+|----------|------------|
+|<img src="https://user-images.githubusercontent.com/1682088/185187772-4dde096f-c05e-4400-9677-1c8e58e086d8.png" width="400" alt="Zoey">|<img src="https://user-images.githubusercontent.com/1682088/185188692-45812e64-7d8a-490c-b1d5-376d5f89e534.png" width="400" alt="Phoebe">|
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
