@@ -1,11 +1,11 @@
 # Manager README
-I think we'll work for effectively together if you know a bit about me. So here goes 😅
+I think we'll work more effectively together if you know a bit about me. So here goes 😅
 
 ## About me 👨‍👦
 First off, you can call me Eric or EJ (to avoid a Planning & Tracking name collision w/ [@aricwalker](https://github.com/aricwalker).
 
 - I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
-- I live with my family (pictured above) in Minneapolis, Minnesota.
+- I live with my family — wife Erica and daughters Zoey (5) and Phoebe (2) — in Minneapolis, Minnesota.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
 - I come to GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
@@ -27,7 +27,7 @@ Values matter! Our values determine how we show up every day at work. Here are a
 We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my role here.
 
 ### I'm new here
-I realize that it’s a risk to join or a team or change managers, and, as a new Hubber (I joined GitHub in June ‘22), I don’t have the context and organizational insight that other managers do. I’m making it one of my main priorities to meet people throughout GitHub and learn as much as I can as quickly as I can.
+I realize that it’s a risk to join or new team or change managers, and, as a new Hubber (I joined GitHub in June ‘22), I don’t have the context and organizational insight that other managers do. I’m making it one of my main priorities to meet people throughout GitHub and learn as much as I can as quickly as I can.
 
 ### Bias towards listening/learning before acting
 By default, I generally listen and learn first before speaking or acting. After working with a leadership coach for the past two years (his name is Hector, and I will probably talk about him every so often), I've realized that I need to (kindly and humbly) speak up sooner rather than later with confidence and curiosity.
