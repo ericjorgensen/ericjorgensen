@@ -1,5 +1,5 @@
 # Manager README
-I think we'll work more effectively together if you know a bit about me. So here goes 😅
+This is meant to be a getting started guide to working with me. It captures things I've learned about myself as well as feedback from other people over the years. My hope is that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
 First off, you can call me Eric or EJ (to avoid a Planning & Tracking name collision w/ [@aricwalker](https://github.com/aricwalker).
@@ -12,16 +12,17 @@ First off, you can call me Eric or EJ (to avoid a Planning & Tracking name colli
 ![image](https://user-images.githubusercontent.com/1682088/184918474-2e115b3b-8158-4a22-af87-b158fe4b9426.png)
 
 ## My values ❤️
-Values matter! Our values determine how we show up every day at work. Here are a few of mine:
+Values matter! Our values determine how we show up every day at work. Here are some of mine:
 
 | **Value**                               | **What does it mean to me?**                                                                                                                                                   |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Taking care of ourselves and each other | We all do better work in the long run if we maintain a healthy personal life/work balance and look out for each other.                                                         |
 | Positivity                              | Approach projects and interactions assuming positive intent. This doesn’t mean sugarcoating difficult conversations or news, withholding constructive feedback, or dishonesty. |
 | Collaboration                           | We succeed and fail as a team, not as individuals.                                                                                                                             |
-| Honesty                                 | Until mind reading is a thing, detailed, thoughtful, proactive, and honest communication is extremely important, especially in a remote work culture.                          |
+| Diversity                                 | We will build better software and reach more customers if our team is more broadly representative of the wider world. Examples include but aren't limited to training (CS vs non-traditional, experience level, skillset, ethnicity, gender, etc.).                          |
+| Honest communication                                 | In a remote-first culture, detailed, thoughtful, proactive, and honest communication is required to do our jobs well.                          |
 | Respect                                 | No outcome justifies treating others with disrespect. If you mess up, make it right.                                                                                           |
-| Growth mindset                          | Everyone can grow and improve given the right context, challenges, frame of mind, and feedback.                                                                                |
+| Growth mindset                          | Everyone can grow and improve given the right context, challenges, frame of mind, and feedback. Team processes should also evolve and change over time as we learn and grow together.                                                                                |
 | Making an impact                        | Let’s build the right thing, in the right way, with the right amount of investment.                                                                                            |
 ## Some of my areas of growth ⏫
 We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my role here.
@@ -59,14 +60,22 @@ I got into management because I love coaching and helping people get the most ou
 - All that said, I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Your job ⌨️
-I look at your job as an engineer as being pretty straightforward:
+I look at your job as an engineer as being pretty straightforward but challenging (and hopefully incredibly rewarding):
 
-- Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that)
+- Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that).
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
-- Stay engaged with the team, be it on Slack, in GitHub, or team meetings on video.
+- Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
+
+### My expectations for you
+
+- Be generous with your unique gifts — teams are strongest when people contribute the work of the team without ego or comparison to the contributions of others
+- Communicate and document frequently in whatever medium is most comfortable for you (e.g. Slack, GitHub, etc.).
+- Hold yourself, your teammates, and me accountable to being the best team possible. (Credit to [Chiedo John](https://github.com/chiedo/leadership/blob/main/README.md) for this one)
 
 ## My job 💼
-My job as a manager is similarly simple:
+My job as a manager is simple to describe (but maybe not always easy to execute 😆).
+
+It is to:
 
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!).
 - Set context and provide high level direction for engineers (that’s also you!).
@@ -75,7 +84,7 @@ My job as a manager is similarly simple:
 - Ensure that we are building the right thing in the right way in the right amount of time.
 
 ### How I approach my job
-I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job (see below) in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
+I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do [your job](#your-job-%EF%B8%8F) in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
 
 I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. I may provide suggestions and raise concerns, but I will generally not force a solution.
 
