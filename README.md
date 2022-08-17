@@ -10,11 +10,12 @@ First off, you can call me Eric or EJ (to avoid a Planning & Tracking name colli
 - I come to GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
 **My family at Gooseberry Falls, north of Duluth, MN**
-![image](https://user-images.githubusercontent.com/1682088/184918474-2e115b3b-8158-4a22-af87-b158fe4b9426.png)
+
+![184918474-2e115b3b-8158-4a22-af87-b158fe4b9426](https://user-images.githubusercontent.com/1682088/185192536-19564bfc-8925-46a8-9157-a37a066946e4.jpg)
 
 | **Zoey** | **Phoebe** | 
 |----------|------------|
-|<img src="https://user-images.githubusercontent.com/1682088/185187772-4dde096f-c05e-4400-9677-1c8e58e086d8.png" width="400" alt="Zoey">|<img src="https://user-images.githubusercontent.com/1682088/185188692-45812e64-7d8a-490c-b1d5-376d5f89e534.png" width="400" alt="Phoebe">|
+|<img src="https://user-images.githubusercontent.com/1682088/185192620-177db342-6857-4221-b96e-72e5ad0494f8.jpg" width="500" alt="Zoey">|<img src="https://user-images.githubusercontent.com/1682088/185192665-ed813313-f97f-4b8f-bb18-391d2dbb82cd.jpg" width="500" alt="Phoebe">|
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
