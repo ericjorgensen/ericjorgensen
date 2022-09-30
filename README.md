@@ -1,21 +1,17 @@
 # Manager README
-This is meant to be a getting started guide to working with me. It captures things I've learned about myself as well as feedback from other people over the years. My hope is that it will be a living document and continue to change and evolve over time as I do the same 😄
+This is meant to be a getting started guide to working with me for my direct reports. It captures things I've learned about myself as well as feedback from other people over the years. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
-First off, you can call me Eric or EJ (to avoid a Planning & Tracking name collision w/ [@aricwalker](https://github.com/aricwalker).
+You can call me Eric or EJ 👋
 
 - I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
 - I live with my family — wife Erica and daughters Zoey (5) and Phoebe (2) — in Minneapolis, Minnesota.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
-- I come to GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
+- I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
 **My family at Gooseberry Falls, north of Duluth, MN**
 
-![184918474-2e115b3b-8158-4a22-af87-b158fe4b9426](https://user-images.githubusercontent.com/1682088/185192536-19564bfc-8925-46a8-9157-a37a066946e4.jpg)
-
-| **Zoey** | **Phoebe** | 
-|----------|------------|
-|<img src="https://user-images.githubusercontent.com/1682088/185192620-177db342-6857-4221-b96e-72e5ad0494f8.jpg" width="500" alt="Zoey">|<img src="https://user-images.githubusercontent.com/1682088/185192665-ed813313-f97f-4b8f-bb18-391d2dbb82cd.jpg" width="500" alt="Phoebe">|
+<img src="https://user-images.githubusercontent.com/1682088/185192536-19564bfc-8925-46a8-9157-a37a066946e4.jpg" width="655" alt="My family">
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
@@ -24,20 +20,21 @@ Values matter! Our values determine how we show up every day at work. Here are s
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Taking care of ourselves and each other | We all do better work in the long run if we maintain a healthy personal life/work balance and look out for each other.                                                         |
 | Positivity                              | Approach projects and interactions assuming positive intent. This doesn’t mean sugarcoating difficult conversations or news, withholding constructive feedback, or dishonesty. |
-| Collaboration                           | We succeed and fail as a team, not as individuals.                                                                                                                             |
-| Diversity                                 | We will build better software and reach more customers if our team is more broadly representative of the wider world. Examples include but aren't limited to training (CS vs non-traditional), experience level (SE 1 to Staff/Principal), skillset (backend, frontend, full-stack), ethnicity, gender, age, etc.).                          |
-| Honest communication                                 | In a remote-first culture, detailed, thoughtful, proactive, and honest communication is required to do our jobs well.                          |
+| Collaboration                           | We succeed and fail as a team.                                                                                                                             |
+| Diversity                               | We will build better software and reach more customers if our team is more broadly representative of the wider world. Examples include but aren't limited to training (CS vs non-traditional), experience level (SE 1 to Staff/Principal), skillset (backend, frontend, full-stack), ethnicity, gender, age, etc.).                          |
+| Honest communication                    | In a remote-first culture, detailed, thoughtful, proactive, and honest communication is required to do our jobs well.                          |
 | Respect                                 | No outcome justifies treating others with disrespect. If you mess up, make it right.                                                                                           |
 | Growth mindset                          | Everyone can grow and improve given the right context, challenges, frame of mind, and feedback. Team processes should also evolve and change over time as we learn and grow together.                                                                                |
 | Making an impact                        | Let’s build the right thing, in the right way, with the right amount of investment.                                                                                            |
-## Some of my areas of growth ⏫
+
+## Some of my areas of growth as I settle into my role ⏫
 We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my role here.
 
-### I'm new here
-I realize that it’s a risk to join or new team or change managers, and, as a new Hubber (I joined GitHub in June ‘22), I don’t have the context and organizational insight that other managers do. I’m making it one of my main priorities to meet people throughout GitHub and learn as much as I can as quickly as I can.
+### I'm new to GitHub (as of June '22)
+I don’t have the context and organizational insight that other managers do, not yet! Focusing on meeting people throughout GitHub and learn as much as I can as quickly as I can.
 
 ### Over-explaining
-I like words. Sometimes, I use too many of them. I am working on using less to say more.
+I am working on using less words to say more.
 
 ### Bias towards listening/learning before acting
 By default, I generally listen and learn first before speaking or acting. After working with a leadership coach for the past two years (his name is Hector, and I will probably talk about him every so often), I've realized that I need to (kindly and humbly) speak up sooner rather than later with confidence and curiosity.
@@ -51,10 +48,10 @@ I find it incredibly awkward to speak to groups of people on Zoom 😬 This mean
 This is the flipside of the area of growth I described above — I generally won’t rush into action based on one conversation. I’ll gather additional context and information (likely from multiple sources) as time allows to ensure that I truly understand what’s going on.
 
 ### I have a growth mindset and respond well to feedback
-One of the reasons I show up every day to work is because I want to learn and grow. I appreciate it when people disagree with me and/or share constructive feedback, and I treat those situations as opportunities to learn.
+I appreciate it when people disagree with me and/or share constructive feedback, and I treat those situations as opportunities to learn.
 
 ### I am honest and I trust by default
-I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. There may be certain topics that I can’t talk about, but, if you ask me a question, I’ll tell you that. I won’t lie. You can also count on me to give you feedback when I see areas where you can improve.
+I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. You can also count on me to give you feedback when I see areas where you can improve.
 
 Further, I am not closely scrutinizing you on a day-to-day basis to monitor you (e.g. how many hours you are working, Slack availability, etc.). I trust you to the do the job we’ve hired you to do and be accountable to the team.
 
@@ -62,14 +59,14 @@ Further, I am not closely scrutinizing you on a day-to-day basis to monitor you 
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
 
 
-## Working hours ⏰
+## My working hours ⏰
 
 - I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
-- I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency (e.g. the site is down).
-- All that said, I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
+- I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency
+- I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Your job ⌨️
-I look at your job as an engineer as being pretty straightforward but challenging (and hopefully incredibly rewarding):
+Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
 
 - Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that).
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
@@ -82,9 +79,7 @@ I look at your job as an engineer as being pretty straightforward but challengin
 - Hold yourself, your teammates, and me accountable to being the best team possible. (Credit to [Chiedo John](https://github.com/chiedo/leadership/blob/main/README.md) for this one)
 
 ## My job 💼
-My job as a manager is simple to describe (but maybe not always easy to execute 😆).
-
-It is to:
+My job as a manager is simple to describe (but maybe not always easy to execute 😆):
 
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!).
 - Set context and provide high level direction for engineers (that’s also you!).
