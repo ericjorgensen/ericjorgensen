@@ -96,7 +96,7 @@ I will get better at finding the right balance as we get to know each other bett
 
 ## Communication 🗯️
 
-As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1 (more on that below) via video or phone. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
+As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
 
 **The bottom line:** if you want to talk, we’ll talk! My 📆 is public — you can and should schedule time with me whenever you want/need to.
 
