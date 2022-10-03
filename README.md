@@ -1,5 +1,5 @@
 # Manager README
-This is meant to be a getting started guide to working with me for my direct reports. It captures things I've learned about myself as well as feedback from other people over the years. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
+This is meant to be a getting started guide to working with me for my direct reports. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
 You can call me Eric or EJ 👋
@@ -53,17 +53,10 @@ I appreciate it when people disagree with me and/or share constructive feedback,
 ### I am honest and I trust by default
 I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. You can also count on me to give you feedback when I see areas where you can improve.
 
-Further, I am not closely scrutinizing you on a day-to-day basis to monitor you (e.g. how many hours you are working, Slack availability, etc.). I trust you to the do the job we’ve hired you to do and be accountable to the team.
+Further, I am not closely monitoring you on a day-to-day basis. I trust you to the do the job we’ve hired you to do and be accountable to the team.
 
 ### I care about you as a human being
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
-
-
-## My working hours ⏰
-
-- I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
-- I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency
-- I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Your job ⌨️
 Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
@@ -95,23 +88,17 @@ I default to high autonomy; my preferred management mode is to trust you to hand
 Everyone is different, and I realize some people need more guidance than others. If you need more direction from me, please let me know as soon as possible.
 I will get better at finding the right balance as we get to know each other better!
 
+## My working hours ⏰
+
+- I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
+- I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency
+- I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
+
 ## Communication 🗯️
 
 As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1 (more on that below) via video or phone. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
 
 **The bottom line:** if you want to talk, we’ll talk! My 📆 is public — you can and should schedule time with me whenever you want/need to.
-
-### 1:1s 🧑‍🤝‍🧑
-As mentioned above, you and I will have a weekly 30-minute 1:1. This time is not meant to be a project status report (there are lots of other opportunities to do that).
-
-Instead, we should talk about things like:
-
-- How you are feeling in general about your job
-- Successes
-- Fears and concerns
-- Short- and long-term goals
-- Feedback (either for you or for me)
-- Advice/coaching
 
 ## A final note on feedback 🦸‍♂️
 I love feedback! Feedback is critical to your success at GitHub — and mine as well. You would be doing me a huge favor if you give me constructive feedback to help me do my job better 🙇
