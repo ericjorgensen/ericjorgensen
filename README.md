@@ -9,9 +9,10 @@ You can call me Eric or EJ 👋
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
-**My family at Gooseberry Falls, north of Duluth, MN**
+**My family in December, 2023**
 
-<img src="https://user-images.githubusercontent.com/1682088/185192536-19564bfc-8925-46a8-9157-a37a066946e4.jpg" width="655" alt="My family">
+<img src="https://github.com/ericjorgensen/ericjorgensen/assets/1682088/ae757763-229a-44b1-839e-179da86061ee" width="500">
+
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
