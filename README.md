@@ -5,7 +5,7 @@ This is meant to be a getting started guide to working with me for my direct rep
 You can call me Eric or EJ 👋
 
 - I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
-- I live with my family — wife Erica and daughters Zoey (5) and Phoebe (2) — in Minneapolis, Minnesota.
+- I live with my family — wife Erica and kids Zoey (6), Phoebe (3), and Everett (born Dec '23) — in Minneapolis, Minnesota.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
@@ -29,10 +29,10 @@ Values matter! Our values determine how we show up every day at work. Here are s
 | Making an impact                        | Let’s build the right thing, in the right way, with the right amount of investment.                                                                                            |
 
 ## Some of my areas of growth as I settle into my role ⏫
-We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my role here.
+We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my new role as a director at GitHub.
 
-### I'm new to GitHub (as of June '22)
-I don’t have the context and organizational insight that other managers do, not yet! Focusing on meeting people throughout GitHub and learn as much as I can as quickly as I can.
+### I'm new to my role (as of March '24)
+I don’t have the context and organizational insight that other directors do, not yet! I am focusing on talking to people throughout my org and learning as much as I can as quickly as I can.
 
 ### Over-explaining
 I am working on using less words to say more.
@@ -59,10 +59,17 @@ Further, I am not closely monitoring you on a day-to-day basis. I trust you to t
 ### I care about you as a human being
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
 
-## Your job ⌨️
+## Your job as an engineer
 Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
 
 - Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that).
+- Support your teammates in their career journey with mentorship, pairing, code review, etc.
+- Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
+
+- ## Your job as a manager
+Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
+
+- Communicate risks and concerns proactively, ideally having thought about potentially solutions and a preferred path forward
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
 - Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
 
@@ -72,17 +79,16 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 - Communicate and document frequently in whatever medium is most comfortable for you (e.g. Slack, GitHub, etc.).
 - Hold yourself, your teammates, and me accountable to being the best team possible. (Credit to [Chiedo John](https://github.com/chiedo/leadership/blob/main/README.md) for this one)
 
-## My job 💼
-My job as a manager is simple to describe (but maybe not always easy to execute 😆):
+## My job as a director 💼
 
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!).
-- Set context and provide high level direction for engineers (that’s also you!).
-- Give feedback and provide coaching to help engineers grow in their careers and achieve their goals.
-- Work with other managers, leadership, and engineers to plan and scope future work.
-- Ensure that we are building the right thing in the right way in the right amount of time.
+- Set context and provide high level direction for the engineering teams working on Projects.
+- Give feedback and provide coaching to help managers grow in their careers and achieve their goals.
+- Work closing with Product and Design leads to ensure that we are working on the most important thing.
+- Set teams up for success to ship with speed and quality.
 
 ### How I approach my job
-I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do [your job](#your-job-%EF%B8%8F) in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
+I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
 
 I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. I may provide suggestions and raise concerns, but I will generally not force a solution.
 
