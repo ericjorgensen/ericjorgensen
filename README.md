@@ -67,11 +67,11 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 - Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
 
 - ## Your job as a manager
-Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
 
+- Partner with Product to own your team's roadmap and success, using whatever process or structure works best for the team
 - Communicate risks and concerns proactively, ideally having thought about potentially solutions and a preferred path forward
-- Support your teammates in their career journey with mentorship, pairing, code review, etc.
-- Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
+- Support your team in their career growth, giving them positive and constructive feedback to help them achieve their goals and do their best work for GitHub
+- Partner with me and other managers to drive initiatives across the team
 
 ### My expectations for you
 
@@ -85,7 +85,7 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 - Set context and provide high level direction for the engineering teams working on Projects.
 - Give feedback and provide coaching to help managers grow in their careers and achieve their goals.
 - Work closing with Product and Design leads to ensure that we are working on the most important thing.
-- Set teams up for success to ship with speed and quality.
+- Set teams up for success to ship with momentum and quality.
 
 ### How I approach my job
 I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
