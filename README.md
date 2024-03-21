@@ -66,8 +66,7 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
 - Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
 
-- ## Your job as a manager
-
+## Your job as a manager
 - Partner with Product to own your team's roadmap and success, using whatever process or structure works best for the team
 - Communicate risks and concerns proactively, ideally having thought about potentially solutions and a preferred path forward
 - Support your team in their career growth, giving them positive and constructive feedback to help them achieve their goals and do their best work for GitHub
