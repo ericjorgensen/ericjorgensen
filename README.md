@@ -49,7 +49,7 @@ I find it incredibly awkward to speak to groups of people on Zoom 😬 This mean
 This is the flipside of the area of growth I described above — I generally won’t rush into action based on one conversation. I’ll gather additional context and information (likely from multiple sources) as time allows to ensure that I truly understand what’s going on.
 
 ### I have a growth mindset and respond well to feedback
-I appreciate it when people disagree with me and/or share constructive feedback, and I treat those situations as opportunities to learn.
+I _really_ appreciate it when people disagree with me and I especially appreciate it when people share constructive feedback with me. Constructive feedback is a gift!
 
 ### I am honest and I trust by default
 I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. You can also count on me to give you feedback when I see areas where you can improve.
@@ -73,21 +73,19 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 - Partner with me and other managers to drive initiatives across the team
 
 ## My job as a director 💼
-
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!) who do amazing things for our custmers and GitHub.
 - Set context and provide high level direction for the engineering teams working on Projects.
 - Give feedback and provide coaching to help managers grow in their careers and achieve their goals.
 - Work closing with Product and Design leads to ensure that we are working on the most important thing.
 - Set teams up for success to ship with momentum and quality.
 
-## My expectations for you as a manager or director
-
+## My expectations for you as a manager or engineer
 - Be generous with your unique gifts — teams are strongest when people contribute the work of the team without ego or comparison to the contributions of others
 - Communicate and document frequently in whatever medium is most comfortable for you (e.g. Slack, GitHub, etc.).
 - Hold yourself, your teammates, and me accountable to being the best team possible. (Credit to [Chiedo John](https://github.com/chiedo/leadership/blob/main/README.md) for this one)
 
 ### How I approach my job
-I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and on this team is one stop in your career path. I want to make sure that you get the most out of your time here.
+I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and in this group is one stop in your career path, and I want to make sure that you get the most out of our time working together.
 
 I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. I may provide suggestions and raise concerns, but I will generally not force a solution.
 
@@ -101,12 +99,11 @@ I will get better at finding the right balance as we get to know each other bett
 - I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Communication 🗯️
-
-As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack. That said, it’s also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, we'll have a weekly synchronous 1:1. If you prefer synchronous video/audio communication, please let me know, and I will use that as our default.
+As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack! DMs are always open. That said, I believe that it is also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, I do weekly synchronous 1:1s with my direct reports. I also do skip-levels with all engineers in the org every couple of months at minimum. You can also schedule a skip with me any time you'd like.
 
 **The bottom line:** if you want to talk, we’ll talk! My 📆 is public — you can and should schedule time with me whenever you want/need to.
 
 ## A final note on feedback 🦸‍♂️
-I love feedback! Feedback is critical to your success at GitHub — and mine as well. You would be doing me a huge favor if you give me constructive feedback to help me do my job better 🙇
+I mentioned this above, but I'll say it again: I love feedback! Feedback is critical to your success at GitHub — and mine as well. You would be doing me a huge favor if you give me constructive feedback to help me do my job better 🙇
 
 Let's build something amazing together! ✨
