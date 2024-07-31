@@ -1,5 +1,5 @@
 # Manager README
-This is meant to be a getting started guide to working with me for my direct reports. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
+This is meant to be a getting started guide to working with me for my direct reports and the engineers in the Projects org. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
 You can call me Eric or EJ 👋
