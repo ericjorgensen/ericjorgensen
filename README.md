@@ -9,10 +9,9 @@ You can call me Eric or EJ 👋
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
-**My family in December, 2023**
+**My family in December, 2024**
 
-<img src="https://github.com/ericjorgensen/ericjorgensen/assets/1682088/ae757763-229a-44b1-839e-179da86061ee" width="500">
-
+<img src="https://github.com/user-attachments/assets/5ab4126c-09b2-45cc-a845-850a387d1311" width="100%">
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
