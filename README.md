@@ -6,7 +6,7 @@ You can call me Eric or EJ 👋
 
 - I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
 - I live with my family — wife Erica and kids Zoey (6), Phoebe (3), and Everett (born Dec '23) — in Minneapolis, Minnesota.
-- In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey and Phoebe).
+- In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
 **My family in December, 2024**
