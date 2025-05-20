@@ -2,10 +2,14 @@
 This is meant to be a getting started guide to working with me for my direct reports and the engineers in the Projects org. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
-You can call me Eric or EJ 👋
+You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig when I worked closely with another Erik, and it's remained helpful to disambiguate among the various Eri(c)(k)s around GitHub.
 
-- I am a self-taught engineer and management nerd with a liberal arts background (Political Science and History).
-- I live with my family — wife Erica and kids Zoey (7), Phoebe (4), and Everett (1) — in Minneapolis, Minnesota.
+<img src="https://github.com/user-attachments/assets/d2e641eb-0645-4d1b-9409-b18ff9ebb8df" width="35%">
+
+
+- I am a self-taught engineer with a liberal arts background (Political Science and History).
+- I live with my family — wife Erica and kids Zoey (8), Phoebe (5), and Everett (1) — in Minneapolis, Minnesota.
+- I am an outgoing introvert; I have a large and varied group of friends and can be very social, but being around people (even on Zoom) is also very draining for me. I recharge by spending time by myself.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
@@ -27,11 +31,8 @@ Values matter! Our values determine how we show up every day at work. Here are s
 | Growth mindset                          | Everyone can grow and improve given the right context, challenges, frame of mind, and feedback. Team processes should also evolve and change over time as we learn and grow together.                                                                                |
 | Making an impact                        | Let’s build the right thing, in the right way, with the right amount of investment.                                                                                            |
 
-## Some of my areas of growth as I settle into my role ⏫
+## Some of my areas of growth
 We are all works in progress — including me! Here are a few of of things that I'm thinking about as I settle into my new role as a director at GitHub.
-
-### I'm new to my role (as of March '24)
-I don’t have the context and organizational insight that other directors do, not yet! I am focusing on talking to people throughout my org and learning as much as I can as quickly as I can.
 
 ### Over-explaining
 I am working on using less words to say more.
