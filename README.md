@@ -93,13 +93,12 @@ Everyone is different, and I realize some people need more guidance than others.
 I will get better at finding the right balance as we get to know each other better!
 
 ## My working hours ⏰
-
 - I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
-- I will almost never contact you off-hours, but in the rare chance I do, take it as a note for later unless it's an emergency
+- One of the things I like about remote work is the flexibility it gives me to step away for things like an event at my kids' school, to go for a walk, or even to take a short nap to recharge. The flip side of that for me is that I will often check Slack outside of core working hours. I will generally schedule messages if I'm working outside of core hours.
 - I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Communication 🗯️
-As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack! DMs are always open. That said, I believe that it is also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, I do weekly synchronous 1:1s with my direct reports. I also do skip-levels with all engineers in the org every couple of months at minimum. You can also schedule a skip with me any time you'd like.
+As a child of AIM (screen name: guitarer1c2 🖥️), I love chatting on Slack! DMs are always open and encouraged. I believe that it is also important that we talk regularly face-to-face (okay, over video chat) as well. At minimum, I do weekly synchronous 1:1s with my direct reports. I also do skip-levels with all engineers in the org every quarter. You can also schedule a skip with me any time you'd like — just grab time on my calendar; you don't need to ask for permission.
 
 **The bottom line:** if you want to talk, we’ll talk! My 📆 is public — you can and should schedule time with me whenever you want/need to.
 
