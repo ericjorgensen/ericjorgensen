@@ -15,7 +15,7 @@ You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig 
 
 **My family in December, 2024**
 
-<img src="https://github.com/user-attachments/assets/5ab4126c-09b2-45cc-a845-850a387d1311" width="100%">
+<img src="https://github.com/user-attachments/assets/5ab4126c-09b2-45cc-a845-850a387d1311" width="75%">
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
@@ -87,10 +87,7 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 ### How I approach my job
 I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and in this group is one stop in your career path, and I want to make sure that you get the most out of our time working together.
 
-I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. I may provide suggestions and raise concerns, but I will generally not force a solution.
-
-Everyone is different, and I realize some people need more guidance than others. If you need more direction from me, please let me know as soon as possible.
-I will get better at finding the right balance as we get to know each other better!
+I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. My goal is to offer clear context and feedback while giving you the autonomy to lead. I’ll step in more directly when needed, and I’ll adapt as we learn what works best together.
 
 ## My working hours ⏰
 - I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
