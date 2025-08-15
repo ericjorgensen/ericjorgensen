@@ -37,11 +37,8 @@ We are all works in progress — including me! Here are a few of of things that 
 ### Over-explaining
 I am working on using less words to say more.
 
-### Bias towards listening/learning before acting
-By default, I generally listen and learn first before speaking or acting. After working with a leadership coach for the past two years (his name is Hector, and I will probably talk about him every so often), I've realized that I need to (kindly and humbly) speak up sooner rather than later with confidence and curiosity.
-
-### I am most comfortable in 1:1 conversations
-I find it incredibly awkward to speak to groups of people on Zoom 😬 This means that sometimes I miss or shy away from opportunities to have larger conversations or send messages to a larger group. I am consistently pushing myself to grow in choosing the right venues for communication, but I could use your help and feedback along the way.
+### Continuing to tweak the balance between acting quickly and waiting
+During my time as a director at GitHub, I've gotten a lot more comfortable making decisions and moving quickly. Sometimes (maybe even often) this is the right approach, especially given how frequently things at GitHub change. However, sometimes it is better as a leader to wait a bit, observe, gather feedback, and _then_ act. I'm working on continuing to refine my approach.
 
 ## Some of my strengths 💪
 
@@ -52,9 +49,7 @@ This is the flipside of the area of growth I described above — I generally won
 I _really_ appreciate it when people disagree with me and I especially appreciate it when people share constructive feedback with me. Constructive feedback is a gift!
 
 ### I am honest and I trust by default
-I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. You can also count on me to give you feedback when I see areas where you can improve.
-
-Further, I am not closely monitoring you on a day-to-day basis. I trust you to the do the job we’ve hired you to do and be accountable to the team.
+I don’t play games, I don’t try to manipulate situations or people, and I won’t lie to you. You can also count on me to give you feedback when I see areas where you can improve based on my own observations and signal I've gathered from the team.
 
 ### I care about you as a human being
 I got into management because I love coaching and helping people get the most out of their jobs and their careers, not to go on a power trip. To get the most out of our time together, I ask you to be honest with me about what you want and need from me. I will, in turn, be honest about what I want and need from you.
@@ -62,7 +57,7 @@ I got into management because I love coaching and helping people get the most ou
 ## Your job as an engineer
 Your job as an engineer is pretty straightforward but challenging (and hopefully incredibly rewarding):
 
-- Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (I can help with that).
+- Ship code that moves our business forward, balancing trade-offs between speed, quality, and features (EPD leadership can help with that).
 - Support your teammates in their career journey with mentorship, pairing, code review, etc.
 - Engage actively and continuously with the team, be it on Slack, in GitHub, or team meetings on video.
 
@@ -74,9 +69,10 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 
 ## My job as a director 💼
 - Build and maintain a team and organizational culture that allows us to attract, retain, and support top-class talent (that’s you!) who do amazing things for our custmers and GitHub.
+  - This means setting and holding a high bar for all of you technically, in what we ship to customers, and in the culture within our teams.
 - Set context and provide high level direction for the engineering teams working on Projects.
 - Give feedback and provide coaching to help managers grow in their careers and achieve their goals.
-- Work closing with Product and Design leads to ensure that we are working on the most important thing.
+- Work closing with Product and Design leads to ensure that we are working on the most important things.
 - Set teams up for success to ship with momentum and quality.
 
 ## My expectations for you as a manager or engineer
@@ -87,11 +83,11 @@ Your job as an engineer is pretty straightforward but challenging (and hopefully
 ### How I approach my job
 I am not an authoritarian boss; I want to make sure you have the skills, space, and context to do your job in the best possible way and achieve your career goals. Your time at GitHub and in this group is one stop in your career path, and I want to make sure that you get the most out of our time working together.
 
-I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without much guidance or direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. My goal is to offer clear context and feedback while giving you the autonomy to lead. I’ll step in more directly when needed, and I’ll adapt as we learn what works best together.
+I default to high autonomy; my preferred management mode is to trust you to handle your day-to-day work without direction from me. We hired you because you are smart and capable. I trust you to know your own limits and ask for support when needed. My goal is to offer clear context and feedback while giving you the autonomy to lead in your area. I’ll step in more directly when needed, and I’ll adapt as we learn what works best together.
 
 ## My working hours ⏰
 - I try to keep strict hours of availability for meetings by blocking out time on my calendar. I encourage you to do the same!
-- One of the things I like about remote work is the flexibility it gives me to step away for things like an event at my kids' school, to go for a walk, or even to take a short nap to recharge. The flip side of that for me is that I will often check Slack outside of core working hours. I will generally schedule messages if I'm working outside of core hours.
+- One of the things I like about remote work is the flexibility it gives me to step away for things like an event at my kids' school, to go for a walk, or even to take a short nap to recharge. The flip side of that for me is that I will often check Slack outside of core working hours. I will generally schedule messages for you if I'm working outside of those hours.
 - I view it as part of my job to be available when you need me. If you want to reach me outside of work hours, please call, text, email, Slack, etc. at any time. I mean it.
 
 ## Communication 🗯️
