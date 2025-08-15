@@ -13,9 +13,8 @@ You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig 
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
-**My family in December, 2024**
-
-<img src="https://github.com/user-attachments/assets/5ab4126c-09b2-45cc-a845-850a387d1311" width="75%">
+### My family in December, March 2025
+<img src="https://github.com/user-attachments/assets/4e857896-5827-44d5-b8dd-73eea40c904c" width="50%">
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
