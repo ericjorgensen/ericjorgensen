@@ -4,9 +4,6 @@ This is meant to be a getting started guide to working with me for my direct rep
 ## About me 👨‍👦
 You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig when I worked closely with another Erik, and it's remained helpful to disambiguate among the various Eri(c)(k)s around GitHub.
 
-<img src="https://github.com/user-attachments/assets/d2e641eb-0645-4d1b-9409-b18ff9ebb8df" width="35%">
-
-
 - I am a self-taught engineer with a liberal arts background (Political Science and History).
 - I live with my family — wife Erica and kids Zoey (8), Phoebe (5), and Everett (1) — in Minneapolis, Minnesota.
 - I am an outgoing introvert; I have a large and varied group of friends and can be very social, but being around people (even on Zoom) is also very draining for me. I recharge by spending time by myself.
