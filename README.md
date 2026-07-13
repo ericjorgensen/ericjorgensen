@@ -1,4 +1,5 @@
-# Manager README
+# Human User Guide
+
 This is meant to be a getting started guide to working with me for my direct reports and the engineers in the Projects org. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
@@ -8,10 +9,7 @@ You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig 
 - I live with my family — wife Erica and kids Zoey (9), Phoebe (6), and Everett (2) — in Minneapolis, Minnesota.
 - I am an outgoing introvert; I have a large and varied group of friends and can be very social, but being around people (even on Zoom) is also very draining for me. I recharge by spending time by myself.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
-- I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
-
-### My family in June 2026
-
+- I arrived at GitHub in June 2022 with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
