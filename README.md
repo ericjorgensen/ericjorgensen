@@ -5,13 +5,13 @@ This is meant to be a getting started guide to working with me for my direct rep
 You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig when I worked closely with another Erik, and it's remained helpful to disambiguate among the various Eri(c)(k)s around GitHub.
 
 - I am a self-taught engineer with a liberal arts background (Political Science and History).
-- I live with my family — wife Erica and kids Zoey (8), Phoebe (5), and Everett (1) — in Minneapolis, Minnesota.
+- I live with my family — wife Erica and kids Zoey (9), Phoebe (6), and Everett (2) — in Minneapolis, Minnesota.
 - I am an outgoing introvert; I have a large and varied group of friends and can be very social, but being around people (even on Zoom) is also very draining for me. I recharge by spending time by myself.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
 - I arrived at GitHub with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
 
-### My family in March 2025
-<img src="https://github.com/user-attachments/assets/4e857896-5827-44d5-b8dd-73eea40c904c" width="50%">
+### My family in June 2026
+
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
