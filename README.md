@@ -9,7 +9,11 @@ You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig 
 - I live with my family — wife Erica and kids Zoey (9), Phoebe (6), and Everett (2) — in Minneapolis, Minnesota.
 - I am an outgoing introvert; I have a large and varied group of friends and can be very social, but being around people (even on Zoom) is also very draining for me. I recharge by spending time by myself.
 - In my free time, I try to balance my indoor Octocat tendencies and interests (playing/listening to music, reading, video games, and photography) with being active and in trying to stay in shape (hockey, tennis, cycling, and keeping up with Zoey, Phoebe, and Everett).
-- I arrived at GitHub in June 2022 with six years of management experience, most recently at Wirecutter where I was a engineering manager and eventually a director responsible for their user-facing engineering teams.
+- I have been at GitHub since June 2022, and I've now been doing this engineering leadership thing for ten years!
+
+<img width="50%" alt="IMG_0230 Large" src="https://github.com/user-attachments/assets/4012a537-f6dc-4b49-a9d3-9bbfc65fe0d8" />
+<br>
+<strong>My family and me</strong>
 
 ## My values ❤️
 Values matter! Our values determine how we show up every day at work. Here are some of mine:
