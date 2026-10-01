@@ -1,9 +1,11 @@
 # Human User Guide
 
-This is meant to be a getting started guide to working with me for my direct reports and the engineers in the Projects org. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
+This is meant to be a getting started guide to working with me for the managers and engineers working on my team. I hope that it will be a living document and continue to change and evolve over time as I do the same 😄
 
 ## About me 👨‍👦
 You can call me Eric or EJ; either works! "EJ" became a thing in a previous gig when I worked closely with another Erik, and it's remained helpful to disambiguate among the various Eri(c)(k)s around GitHub.
+
+A few highlights:
 
 - I am a self-taught engineer with a liberal arts background (Political Science and History).
 - I live with my family — wife Erica and kids Zoey (9), Phoebe (6), and Everett (2) — in Minneapolis, Minnesota.
